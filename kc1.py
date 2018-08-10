@@ -1,0 +1,5 @@
+a = int (input ( ' enter value for A  :'))
+b = int (input ( ' enter value for B  :'))
+c = int (input ( ' enter value for C  :'))
+d  = float ((- b + 4 * a * c )/ 2 * a)
+print ( ' answer = ' , d )
